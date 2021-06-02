@@ -1,0 +1,6 @@
+C:\Users\Thang\RiderProjects\HomeWork\Exercise4\bin\Debug\Exercise4.exe
+C:\Users\Thang\RiderProjects\HomeWork\Exercise4\bin\Debug\Exercise4.pdb
+C:\Users\Thang\RiderProjects\HomeWork\Exercise4\obj\Debug\Exercise4.csprojAssemblyReference.cache
+C:\Users\Thang\RiderProjects\HomeWork\Exercise4\obj\Debug\Exercise4.csproj.CoreCompileInputs.cache
+C:\Users\Thang\RiderProjects\HomeWork\Exercise4\obj\Debug\Exercise4.exe
+C:\Users\Thang\RiderProjects\HomeWork\Exercise4\obj\Debug\Exercise4.pdb
